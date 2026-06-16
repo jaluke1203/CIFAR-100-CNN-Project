@@ -1,7 +1,11 @@
 # CIFAR-100 Custom CNN
-
 *This project was put together during ECE 601, Machine Learning for Engineers, at the University of Massachusetts Amherst. It consists of five phases.*
 
+## Project Overview
+*An optimized, low-parameter convolutional neural network designed for dual-classification tasks on constrained hardware.*
+- **Model Architecture:** Engineered a single, high-efficiency convolutional backbone that feeds into a multi-head fully connected layer, handling both 100-class fine-grained and 20-class coarse-grained image classification simultaneously.
+
+- **Model Focus:** Structured specifically to optimize the machine vision pipeline, reducing computational overhead and parameter counts while maintaining classification accuracy.
 
 ## Project Phases
 
