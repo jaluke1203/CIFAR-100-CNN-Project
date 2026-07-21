@@ -18,3 +18,5 @@
 **Phase 4:** Survey the ML literature to find state-of-the-art approaches to solve the same problem. This includes a descriptive numerical comparison of the performance levels achieved by the developed approach with what was found in the literature; and a list of any implementations available for use among those listed in your survey, with a selection of a candidate for numerical comparison.
 
 **Phase 5:** Implement the candidate identified in Phase 4 and perform a comparative evaluation of the numerical performances achieved by the custom model vs. the competitor from the literature. In addition, you should provide a qualitative description that contrasts the differences between the two approaches and tentative suggestions or explanations for their role in the respective numerical performance results.
+
+## Navigation
